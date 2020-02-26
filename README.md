@@ -2,7 +2,7 @@
 This implementation is for learning purposes. Could be used to learn how to train a simple machine learning model using Python.
 Use your creativity to expand the use ~~to have fun~~ to fix a lot of real world problems and feel free to clone this repo and adapt this code for your requirements :)
 
-These code were inpired from the https://docs.azuredatabricks.net/_static/notebooks/mlflow/mlflow-quick-start-training.html.
+These code were inspired from the https://docs.azuredatabricks.net/_static/notebooks/mlflow/mlflow-quick-start-training.html.
 
 ## [Activate environment](https://pipenv.readthedocs.io/en/latest/)
 `pipenv shell`
