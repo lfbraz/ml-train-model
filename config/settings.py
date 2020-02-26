@@ -1,0 +1,3 @@
+SEED = 40
+ALPHA = 0.05
+L1_RATIO = 0.05

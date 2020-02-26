@@ -7,6 +7,8 @@ These code were inpired from the https://docs.azuredatabricks.net/_static/notebo
 ## [Activate environment](https://pipenv.readthedocs.io/en/latest/)
 `pipenv shell`
 
+To update requirements in Pipfile run `pipenv update`
+
 ## Flake8 config
 Use the bellow code to adjust the max line length limit
 flake8 --max-line-length=140
@@ -20,6 +22,6 @@ If you use VSCode you can add this config to settings.json adding the code:
 ```
 
 ## How to train the model
-Run `run_train.py` 
+Run `run_train.py`
 
 ## Clean up resources
