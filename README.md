@@ -22,6 +22,4 @@ If you use VSCode you can add this config to settings.json adding the code:
 ```
 
 ## How to train the model
-Run `run_train.py`
-
-## Clean up resources
+Run `run.py`
